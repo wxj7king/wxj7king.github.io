@@ -115,7 +115,7 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-  - icon: blibili
+  - icon: bilibili
     icon_pack: fab
     link: https://space.bilibili.com/8296720
     label: Follow me!
